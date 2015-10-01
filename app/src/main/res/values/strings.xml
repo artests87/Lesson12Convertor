@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">38 parrots</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="radiobutton_meters">Meters</string>
+    <string name="radiobutton_parrots">Parrots</string>
+    <string name="buttonConvert_text">Converts</string>
+    <string name="input_cat_length">Input cat length</string>
+    <color name="activity_color">#3399cc</color>
+
+</resources>
